@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "Location": {
-            "value": ""
+            "value": "southuk"
         },
         "NamePrefix": {
-            "value": ""
+            "value": "aadint"
         },
         "NumberOfVms": {
             "value": 1
