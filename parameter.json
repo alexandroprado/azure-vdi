@@ -6,7 +6,7 @@
             "value": "uksouth"
         },
         "NamePrefix": {
-            "value": "aadint"
+            "value": "aadints"
         },
         "NumberOfVms": {
             "value": 1
@@ -15,7 +15,7 @@
             "value": "https://raw.githubusercontent.com/heavenlyren/azure-vdi/main/script.ps1"
         },
         "VirtualMachineIndex": {
-            "value": 10
+            "value": 0
         }
     }
 }
