@@ -12,7 +12,7 @@
             "value": 1
         },
         "ScriptUri": {
-            "value": "https://publicsa0vdi.blob.core.windows.net/files/script.ps1?sp=r&st=2022-07-13T08:04:48Z&se=2024-05-11T16:04:48Z&spr=https&sv=2021-06-08&sr=b&sig=XP3%2BbGBjVMipO6rq%2B6b3iD3J9%2FrSdih0rKB9g3aDQx4%3D"
+            "value": "https://raw.githubusercontent.com/heavenlyren/azure-vdi/main/script.ps1"
         },
         "VirtualMachineIndex": {
             "value": 0
