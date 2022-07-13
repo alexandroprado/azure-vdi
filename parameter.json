@@ -15,7 +15,7 @@
             "value": "https://raw.githubusercontent.com/heavenlyren/azure-vdi/main/script.ps1"
         },
         "VirtualMachineIndex": {
-            "value": 0
+            "value": 10
         }
     }
 }
